@@ -3,23 +3,24 @@ layout: home
 title: "👋 Welcome to My Portfolio"
 ---
 
-# Hi, I'm **Nu Wai Thet (Sophia)** 👋  
-**Data Analyst | ML Engineer | NLP for Burmese Language**
+# Hi, I'm **Nu Wai Thet (Sophia)**  
+**Data Scientist | ML Engineer | NLP for Burmese Language**
+
+
+🎓 M.Sc. in Electronics Engineering (NTU Singapore)  
+📧 [nuwaithet@gmail.com](mailto:nuwaithet@gmail.com) | 🔗 [GitHub](https://github.com/Nuwai) | 💼 [LinkedIn](https://www.linkedin.com/in/nuwai-thet-sophia/)
 
 I’m passionate about applying **Machine Learning, NLP, and Data Analytics** to solve real-world problems, especially in **low-resource language contexts** like Myanmar.  
 My focus areas include:
 
-- 🧠 **AI for Social Good** (Women in Politics, Scam Detection)
-- 📊 **Data Analytics & Visualization**
-- 🗣️ **Natural Language Processing (NLP)**
-- ⚙️ **Automation & Deployment**
-
-🎓 M.Sc. in Electronics Engineering (NTU Singapore)  
-📧 [nuwaithet@gmail.com](mailto:nuwaithet@gmail.com) | 🔗 [GitHub](https://github.com/Nuwai) | 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- **AI for Social Good and machine learnig** (Women in Politics, Scam Detection)
+- **Data Analytics & Visualization**
+- **Natural Language Processing (NLP) and computer vision**
+- **Automation & Deployment**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 💸 [Burmese Money Scam Detection](https://github.com/Nuwai/MoneyScam_in_Myanmar)
 > **NLP | ML Pipeline | Streamlit Deployment**

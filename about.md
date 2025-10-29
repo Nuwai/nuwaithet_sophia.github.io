@@ -1,12 +1,21 @@
-# About Me
+---
+layout: page
+title: "About Me"
+---
 
-I’m a **data analyst and AI researcher** passionate about using data for social good — from promoting **gender equity in politics** to developing **Burmese-language NLP tools**.
+## 👋 Hi, I'm **Sophia (Nu Wai Thet)**
 
-**Areas of Interest:**
-- Data Science for Social Impact
-- NLP for Low-Resource Languages
-- Political Data Analysis
-- Digital Readiness & AI Strategy
+I’m an **AI and Data professional** passionate about building impactful analytical and machine learning systems for real-world use.  
+My work focuses on **applied ML**, **NLP for Burmese**, and **AI-driven social good projects**.
 
-Connect with me on  
-📊 [GitHub](https://github.com/Nuwai) | 💼 [LinkedIn](https://www.linkedin.com/in/nuwai-thet-sophia/)
+### 🧩 Key Strengths
+- End-to-end ML workflow design (data → model → deployment)
+- Statistical and exploratory data analysis
+- Model explainability and interpretability
+- Scalable text data processing
+
+### ⚙️ Tech Stack
+**Python**, **Pandas**, **Scikit-learn**, **TensorFlow**, **Power BI**, **FastAPI**, **Streamlit**, **Git**, **SQL**
+
+### 🎯 Career Goal
+To advance **AI adoption in Myanmar**, bridging data analytics and engineering to create intelligent, ethical systems that drive social progress.

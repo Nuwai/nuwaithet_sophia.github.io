@@ -1,0 +1,13 @@
+title: "Nu Wai Thet (Sophia)"
+description: "Data Scientist | ML Engineer | NLP | AI"
+theme: minima
+author:
+  name: "Nu Wai Thet (Sophia)"
+  email: "nuwaithet@gmail.com"
+  github: "Nuwai"
+  linkedin: "https://linkedin.com/in/your-link"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+show_excerpts: true

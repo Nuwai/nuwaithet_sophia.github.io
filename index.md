@@ -4,13 +4,13 @@ title: "👋 Welcome to My Portfolio"
 ---
 
 # Hi, I'm **Nu Wai Thet (Sophia)**  
-**Data Scientist | ML Engineer | NLP for Burmese Language**
+**Data Scientist | ML Engineer | NLP for Burmese Language | LLM**
 
 
 🎓 M.Sc. in Electronics Engineering (NTU Singapore)  
 📧 [nuwaithet@gmail.com](mailto:nuwaithet@gmail.com) | 🔗 [GitHub](https://github.com/Nuwai) | 💼 [LinkedIn](https://www.linkedin.com/in/nuwai-thet-sophia/)
 
-I’m passionate about applying **Machine Learning, NLP, and Data Analytics** to solve real-world problems, especially in **low-resource language contexts** like Myanmar.  
+I’m passionate about applying **Machine Learning, NLP, deep learning and Data Analytics** to solve real-world problems, especially in **low-resource language contexts** like Myanmar.  
 My focus areas include:
 
 - **AI for Social Good and machine learnig** (Women in Politics, Scam Detection)
